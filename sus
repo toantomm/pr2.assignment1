@@ -20,7 +20,7 @@ public class CoffeeTinGame {
     /** the null character */
     private static final char NULL = '\u0000';
     /** the char 30-elements array containing BLUE, GREEN and REMOVED */
-    private static final  char [] BeansBag =
+    private static char [] BeansBag =
             {'B','G',' ','B','G',' ','B','G',' ','B','G',' ','B','G',' ',   // 5  -3
             'B','G',' ','B','G',' ','B','G',' ','B','G',' ','B','G',' ',};  // 5  -3
 
